@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo Mashoor</string>
+    <string name="key_video_metadata">video_metadata</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="fetching_video_metadata">Fetching video metadata…</string>
+    <string name="internet_not_available">Internet not available</string>
+    <string name="start">Start</string>
+    <string name="hooray">Hooray!</string>
+    <string name="header_title">Header Title</string>
+    <string name="you_are_awesome">You are awesome!</string>
+    <string name="i_am_awesome">I am awesome!</string>
+</resources>
